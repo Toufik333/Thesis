@@ -1,0 +1,38 @@
+Patient_ID,Age,Tumor_Size,Tumor_Type,Lymph_Node_Status,Hormone_Receptor_Status,Genetic_Mutation,Treatment,Survival_Status,Follow_Up_Duration,Blood_Pressure,BMI
+Patient_1,58,4.2537436223092815,Benign,Positive,Unknown,BRCA2,Chemotherapy,Alive,57,164,28.887681362222434
+Patient_2,71,7.275465391184868,Benign,Positive,Negative,Other,Hormone Therapy,Deceased,59,124,25.78718888403307
+Patient_3,48,2.3925451114935044,Malignant,Positive,Positive,Other,Surgery,Deceased,70,93,24.819431773693022
+Patient_4,34,8.957042525043656,Malignant,Positive,Positive,BRCA1,Radiation,Deceased,15,174,26.27829585230956
+Patient_5,62,3.2303911664230074,Benign,Negative,Negative,Other,Surgery,Alive,86,101,31.45596898819957
+Patient_6,27,3.9939668836834525,Malignant,Negative,Negative,BRCA1,Hormone Therapy,Deceased,30,127,21.690587029041797
+Patient_7,40,1.051873544763323,Malignant,Positive,Unknown,BRCA1,Radiation,Alive,68,109,34.96996582720176
+Patient_8,58,1.5593660170521257,Malignant,Positive,Negative,Other,Surgery,Deceased,30,108,30.655571282048427
+Patient_9,77,5.400688075767118,Malignant,Positive,Negative,Other,Surgery,Deceased,102,115,23.92144030745141
+Patient_10,38,3.042130428915729,Malignant,Positive,Positive,BRCA1,Surgery,Deceased,115,121,29.025365181848244
+Patient_11,42,8.437062144550847,Benign,Negative,Positive,Other,Radiation,Deceased,53,108,39.18113112907366
+Patient_12,30,0.6395871922220615,Benign,Positive,Negative,Other,Surgery,Alive,103,86,18.45081364119427
+Patient_13,30,4.101393462383394,Benign,Negative,Negative,Other,Chemotherapy,Deceased,16,111,22.389498099827044
+Patient_14,43,3.70478269430638,Benign,Positive,Positive,BRCA2,Hormone Therapy,Deceased,59,92,27.864365277872118
+Patient_15,72,0.6836124937172099,Benign,Negative,Unknown,BRCA2,Radiation,Deceased,36,92,32.04567387915622
+Patient_16,55,1.681499790504847,Benign,Negative,Unknown,BRCA1,Chemotherapy,Alive,78,133,22.669021858280672
+Patient_17,59,4.429605411727035,Benign,Negative,Unknown,Other,Surgery,Alive,37,93,38.49088686427632
+Patient_18,43,5.182213552250743,Malignant,Negative,Unknown,BRCA1,Hormone Therapy,Deceased,85,85,32.13658427334212
+Patient_19,22,4.340752598921256,Benign,Positive,Positive,Other,Surgery,Deceased,99,95,37.30350287704147
+Patient_20,41,5.543907944914891,Benign,Negative,Negative,BRCA2,Chemotherapy,Deceased,73,120,25.244994465507006
+Patient_21,72,6.153750911603974,Benign,Positive,Unknown,Other,Surgery,Deceased,104,131,36.236986554745855
+Patient_22,21,0.5942763007144385,Malignant,Negative,Positive,Other,Radiation,Alive,18,164,26.320822771787817
+Patient_23,43,4.908904014808287,Benign,Negative,Negative,Other,Chemotherapy,Alive,55,95,23.56053899414651
+Patient_24,63,9.653242788432088,Benign,Positive,Unknown,BRCA2,Radiation,Alive,98,84,38.056417461603445
+Patient_25,49,5.430806661230712,Malignant,Positive,Negative,BRCA2,Hormone Therapy,Deceased,38,103,20.0288064649348
+Patient_26,57,6.936651540860055,Benign,Negative,Unknown,BRCA2,Radiation,Deceased,53,122,38.7435535132409
+Patient_27,21,3.4627066502103903,Benign,Negative,Negative,BRCA1,Radiation,Deceased,84,144,28.08733452908732
+Patient_28,79,7.852918092451244,Malignant,Positive,Unknown,Other,Surgery,Deceased,119,89,39.83776041668896
+Patient_29,40,7.842754077823093,Benign,Negative,Unknown,BRCA2,Surgery,Alive,67,138,29.871082382170634
+Patient_30,52,5.45231245271432,Malignant,Positive,Negative,BRCA1,Chemotherapy,Alive,14,114,34.66473978581067
+Patient_31,31,9.772131321152528,Benign,Positive,Negative,BRCA2,Hormone Therapy,Alive,24,110,18.15556235943609
+Patient_32,77,1.692727040245207,Benign,Positive,Negative,Other,Chemotherapy,Deceased,81,158,28.926670039123636
+Patient_33,41,0.6610028164510194,Benign,Negative,Positive,BRCA1,Hormone Therapy,Deceased,70,90,34.22397637559854
+Patient_34,63,7.8165030116924115,Malignant,Negative,Positive,BRCA2,Hormone Therapy,Deceased,49,88,35.22219443908588
+Patient_35,44,8.167977604966385,Malignant,Positive,Negative,BRCA2,Radiation,Deceased,96,145,21.477068817235157
+Patient_36,68,1.6419686766454742,Malignant,Positive,Positive,BRCA1,Surgery,Deceased,94,123,27.217360908421128
+Patient_37,46,3.0230369131067576,Benign,Positive,Unknown,BRCA1,Hormone Therapy,Alive,100,173,27.21958307862545
